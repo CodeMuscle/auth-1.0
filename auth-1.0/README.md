@@ -2,7 +2,7 @@ A user signup and login page with authentication using MERN
 
 ## Installation
 
-Packages to be installed: </n>
+Packages to be installed: <br />
 npm i react-router-dom @mui/material @mui/icons-material @emotion/react @emotion/styled cookie-parser crypto express-validator@5.3.1 jsonwebtoken uuidv1 dotenv react-toastify
 
 
